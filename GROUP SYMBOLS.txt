@@ -1,0 +1,41 @@
+CH3
+CH2
+CH
+C
+=CH2
+=CH
+=C
+=C=
+=-CH
+=-C
+CH2(RING)
+CH(RING)
+C(RING)
+=CH(RING)
+=C(RING)
+F
+Cl
+Br
+I
+OH(ALCOHOL)
+OH(PHENOL)
+O(NR)
+O(RING)
+C=O(NR)
+C=O(RING)
+CHO
+COOH
+COO
+=O(other than above)
+SH
+S(NR)
+S(RING)
+NH2
+NH(NR)
+NH(RING)
+N(NR)
+N= (NR)
+-N= (RING)
+=NH
+CN
+NO2
